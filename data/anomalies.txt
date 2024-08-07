@@ -1,0 +1,14 @@
+Dataset: 1_5_out.csv
+Anomalies on: 2023-04-14, 2023-04-15, 2023-05-02
+
+Dataset: 1_8_out.csv
+Anomalies on: 2023-04-18, 2023-04-19
+
+Dataset: 1_14_out.csv
+Anomalies on: 2022-09-05
+
+Dataset: 1_15_out.csv
+Anomalies on: 2022-10-06, 2023-02-03
+
+Dataset: 1_35_out.csv
+Anomalies on: 2022-10-08, 2022-10-30, 2022-11-15, 2023-01-01, 2023-01-29
